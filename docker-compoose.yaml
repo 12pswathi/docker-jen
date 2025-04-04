@@ -1,5 +1,5 @@
 vesion: '3.8'
-service:
+services:
   python:
     image: charvikp/myapp.v1
     ports:
